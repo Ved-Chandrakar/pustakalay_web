@@ -1,3 +1,3 @@
-const serverUrl = 'http://localhost/pustakalay/';
+const serverUrl = 'http://localhost/pustakalaya/';
 
 export default serverUrl;
